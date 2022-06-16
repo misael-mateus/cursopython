@@ -10,4 +10,3 @@ lista = [string[i:i + n] for i in range(0, len(string), n)]
 retorno = '.'.join(lista)
 print(lista)
 print(retorno)
-
